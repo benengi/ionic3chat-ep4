@@ -1,11 +1,9 @@
 # Ionic 3 Chat
 
-A chat application made using Ionic 3 and firebase.
+## Episode 3
 
-(Please note that this is a work in progress).
+### Profile picture and Password reset
 
-For individual parts of this entire app please check my other repos.
-
-Thanks.
+The code for the first part of the Ionic 3 chat app. For further details - http://tphangout.com/?p=622
 
 
